@@ -3,11 +3,11 @@
 88	322	7133854359842938	CMakeFiles/c.dir/recursion1.c.obj	8970acc221ddbf6d
 31	552	7133853024386804	CMakeFiles/c.dir/bug.c.obj	d9961a06fd1bcfc7
 1	482	7133853023601770	CMakeFiles/c.dir/1.c.obj	dad3b1d333bcfc21
+566	953	7133853028822375	CMakeFiles/c.dir/maxmn.c.obj	a62f2b1dc462c4a3
 80	535	7133853023810567	CMakeFiles/c.dir/bubble.c.obj	413702b81d01116e
 42	309	7133854359560678	CMakeFiles/c.dir/pointer.c.obj	e631d8bb75bbc60a
-566	953	7133853028822375	CMakeFiles/c.dir/maxmn.c.obj	a62f2b1dc462c4a3
-114	385	7133854360484178	CMakeFiles/c.dir/revarray.c.obj	d0aace3f40bdaf12
 17	579	7133853024184926	CMakeFiles/c.dir/2.c.obj	d7baa8a18d65529
+114	385	7133854360484178	CMakeFiles/c.dir/revarray.c.obj	d0aace3f40bdaf12
 100	498	7133853023601770	CMakeFiles/c.dir/dsewd.c.obj	61ebbc50a9b46e74
 59	517	7133853023944951	CMakeFiles/c.dir/bsort.c.obj	36c164d6b642c09c
 199	565	7133853024530618	CMakeFiles/c.dir/function.c.obj	d48e16e75ee5b213
@@ -31,3 +31,6 @@
 38	463	7133866158965894	CMakeFiles/c.dir/sortnames.c.obj	25e9ccc2851b4de7
 87	467	7133866159007734	CMakeFiles/c.dir/str.c.obj	133b2de1b87dd7b8
 46	231	7133867022388995	CMakeFiles/c.dir/sortnamesusingpointers.c.obj	5acd15aacb126a0b
+99	399	7156789952078332	CMakeFiles/c.dir/linkedstack.c.obj	8f9d5095667e2ca1
+57	320	7156792266288963	CMakeFiles/c.dir/linkedstack.c.obj	8f9d5095667e2ca1
+61	240	7156793323700672	CMakeFiles/c.dir/linkedstack.c.obj	8f9d5095667e2ca1

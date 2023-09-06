@@ -271,6 +271,12 @@ build CMakeFiles/c.dir/vowel.c.obj: C_COMPILER__c_unscanned_Debug C$:/Users/veda
   OBJECT_DIR = CMakeFiles\c.dir
   OBJECT_FILE_DIR = CMakeFiles\c.dir
 
+build CMakeFiles/c.dir/linkedstack.c.obj: C_COMPILER__c_unscanned_Debug C$:/Users/vedant$ raikar/Desktop/CLionProjects/c/linkedstack.c || cmake_object_order_depends_target_c
+  DEP_FILE = CMakeFiles\c.dir\linkedstack.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\c.dir
+  OBJECT_FILE_DIR = CMakeFiles\c.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target c
@@ -279,7 +285,7 @@ build CMakeFiles/c.dir/vowel.c.obj: C_COMPILER__c_unscanned_Debug C$:/Users/veda
 #############################################
 # Link the executable c.exe
 
-build c.exe: CXX_EXECUTABLE_LINKER__c_Debug CMakeFiles/c.dir/1.c.obj CMakeFiles/c.dir/2.c.obj CMakeFiles/c.dir/3.c.obj CMakeFiles/c.dir/bsort.c.obj CMakeFiles/c.dir/bubble.c.obj CMakeFiles/c.dir/bug.c.obj CMakeFiles/c.dir/cpyarray.c.obj CMakeFiles/c.dir/delete.c.obj CMakeFiles/c.dir/dsewd.c.obj CMakeFiles/c.dir/enum.c.obj CMakeFiles/c.dir/fact.c.obj CMakeFiles/c.dir/function.c.obj CMakeFiles/c.dir/hell.cpp.obj CMakeFiles/c.dir/hello.cpp.obj CMakeFiles/c.dir/inoutarr.c.obj CMakeFiles/c.dir/inoutarr.cpp.obj CMakeFiles/c.dir/insertion.c.obj CMakeFiles/c.dir/maxminarr.c.obj CMakeFiles/c.dir/maxmn.c.obj CMakeFiles/c.dir/multistr.c.obj CMakeFiles/c.dir/negelement.c.obj CMakeFiles/c.dir/pointer.c.obj CMakeFiles/c.dir/posneg.c.obj CMakeFiles/c.dir/printalph.c.obj CMakeFiles/c.dir/recursion1.c.obj CMakeFiles/c.dir/revarray.c.obj CMakeFiles/c.dir/seeta.c.obj CMakeFiles/c.dir/setA.c.obj CMakeFiles/c.dir/sorting.c.obj CMakeFiles/c.dir/sortnames.c.obj CMakeFiles/c.dir/sortnamesusingpointers.c.obj CMakeFiles/c.dir/str.c.obj CMakeFiles/c.dir/stringbsort.c.obj CMakeFiles/c.dir/sumarr.c.obj CMakeFiles/c.dir/sumn.c.obj CMakeFiles/c.dir/Untitled1.cpp.obj CMakeFiles/c.dir/vowel.c.obj
+build c.exe: CXX_EXECUTABLE_LINKER__c_Debug CMakeFiles/c.dir/1.c.obj CMakeFiles/c.dir/2.c.obj CMakeFiles/c.dir/3.c.obj CMakeFiles/c.dir/bsort.c.obj CMakeFiles/c.dir/bubble.c.obj CMakeFiles/c.dir/bug.c.obj CMakeFiles/c.dir/cpyarray.c.obj CMakeFiles/c.dir/delete.c.obj CMakeFiles/c.dir/dsewd.c.obj CMakeFiles/c.dir/enum.c.obj CMakeFiles/c.dir/fact.c.obj CMakeFiles/c.dir/function.c.obj CMakeFiles/c.dir/hell.cpp.obj CMakeFiles/c.dir/hello.cpp.obj CMakeFiles/c.dir/inoutarr.c.obj CMakeFiles/c.dir/inoutarr.cpp.obj CMakeFiles/c.dir/insertion.c.obj CMakeFiles/c.dir/maxminarr.c.obj CMakeFiles/c.dir/maxmn.c.obj CMakeFiles/c.dir/multistr.c.obj CMakeFiles/c.dir/negelement.c.obj CMakeFiles/c.dir/pointer.c.obj CMakeFiles/c.dir/posneg.c.obj CMakeFiles/c.dir/printalph.c.obj CMakeFiles/c.dir/recursion1.c.obj CMakeFiles/c.dir/revarray.c.obj CMakeFiles/c.dir/seeta.c.obj CMakeFiles/c.dir/setA.c.obj CMakeFiles/c.dir/sorting.c.obj CMakeFiles/c.dir/sortnames.c.obj CMakeFiles/c.dir/sortnamesusingpointers.c.obj CMakeFiles/c.dir/str.c.obj CMakeFiles/c.dir/stringbsort.c.obj CMakeFiles/c.dir/sumarr.c.obj CMakeFiles/c.dir/sumn.c.obj CMakeFiles/c.dir/Untitled1.cpp.obj CMakeFiles/c.dir/vowel.c.obj CMakeFiles/c.dir/linkedstack.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\c.dir

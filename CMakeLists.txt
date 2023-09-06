@@ -41,4 +41,5 @@ add_executable(c
         sumn.c
         Untitled1.cpp
         vowel.c
-        insert.h)
+        insert.h
+        linkedstack.c)
